@@ -1,0 +1,634 @@
+    1  pwd
+    2  hostname
+    3  cd
+    4  whoami
+    5  showtdown now
+    6  shutdown now
+    7  gedit 2.txt
+    8  sudo apt install gedit
+    9  gedit 1.txt
+   10  sudo apt geany
+   11  apt geany
+   12  clear
+   13  sudo apt intall tree
+   14  ls
+   15  cd
+   16  ls
+   17  cd bin
+   18  cd
+   19  ls
+   20  cd
+   21  pwd
+   22  /
+   23  cd ..
+   24  cd..
+   25  cd ..
+   26  ls
+   27  cd bit
+   28  cd bin
+   29  ls
+   30  cd ..
+   31  pwd
+   32  git
+   33  sudo apt install git
+   34  git
+   35  cd
+   36  dc
+   37  git
+   38  git --vesrion
+   39  pwd
+   40  cd--
+   41  --cd
+   42  cd -
+   43  cd //
+   44  cd..
+   45  pwd
+   46  git
+   47  pwd
+   48  ls
+   49  git -- version
+   50  sudo apt git install
+   51  git clone https://github.com/moby/moby.git
+   52  pwd
+   53  cd ~
+   54  pwd
+   55  git clone https://github.com/moby/moby.git
+   56  ls
+   57  cd mobby
+   58  ls
+   59  cd mobby
+   60  ls
+   61  cd moby
+   62  ls
+   63  d
+   64  pwd
+   65  cd ..
+   66  pwd
+   67  cd ~ /Document
+   68  ls
+   69  cd document
+   70  cd Documents/
+   71  ls
+   72  mkdir first_project
+   73  ls
+   74  cd first_project/
+   75  pwd
+   76  git init
+   77  ll
+   78  clear
+   79  echo" "my first document" > .txt
+   80  echo "my first file at the repo"
+   81  cd ..
+   82  home
+   83  /home
+   84  pwd
+   85  /home/ronaofer
+   86  pwd
+   87  cd
+   88  pwd
+   89  clear
+   90  pwd
+   91  mkdir Docs
+   92  mkdir Logs
+   93  ls
+   94  cd Docs
+   95  touch a_rona.txt
+   96  touch b_rona.txt
+   97  ls
+   98  cd ..
+   99  cd logs
+  100  pwd
+  101  ls
+  102  cd logs
+  103  cd Logs
+  104  touch Login_rona.lo
+  105  touch error_rona.log
+  106  ls
+  107  ls *log
+  108  cd ..
+  109  pwd
+  110  ls *txt
+  111  nano rona.txt
+  112  cat rona.txt
+  113  pwd
+  114  ls
+  115  -l
+  116  ls -l
+  117  ls -s
+  118  ls -S
+  119  cd Logs 
+  120  ls -S
+  121  cd ..
+  122  cd Docs
+  123  ls -S
+  124  ls -s
+  125  cat a_rona
+  126  cat a_rona.txt
+  127  cat b_rona.txt
+  128  cd
+  129  ls
+  130  cd Logs
+  131  ls
+  132  cat Login_rona.lo
+  133  cat error_rona.log
+  134  nano error_rona.log 
+  135  cat error_rona.log
+  136  ls -s
+  137  nano Login_rona.lo
+  138  ls -s
+  139  ls -r
+  140  cd
+  141  pwd
+  142  cd .. 
+  143  pwd
+  144  cd ..
+  145  pwd
+  146  /home/ronaofer
+  147  /home/ronaofer/
+  148  .home/ronaofer
+  149  pwd
+  150  home/ronaofer
+  151  cd
+  152  ..home/ronaofer/Logs
+  153  /home/ronaofer/Logs
+  154  lscd
+  155  ls
+  156  cd Logs
+  157  pdw
+  158  pwd
+  159  cd / 
+  160  pwd
+  161  cd -
+  162  cp <Login_rona.lo> <error_rona.log>
+  163  cp Login_rona.lo eror_rona.log
+  164  cat error_rona.logcat
+  165  cat Login_rona.lo
+  166  cat Login_rona.lo>> error_rona.log
+  167  cat error_rona.log 
+  168  pwd
+  169  ls
+  170  cd Documents
+  171  ls
+  172  cd ..
+  173  ls
+  174  cd Docs
+  175  ls
+  176  cat b_rona.txt 
+  177  nano b_rona.txt 
+  178  cat b_rona.txt 
+  179  echo "my name is rona
+  180  and i am a mother for five children" 
+  181  echo "my name is rona
+  182  and i am a mother for five children" > a_rona.txt 
+  183  ls
+  184  cat a_rona.txt 
+  185  cd ..
+  186  ls
+  187  cd rona
+  188  ls
+  189  cd ..
+  190  pwd
+  191  mkdir linux_ex
+  192  ls
+  193  cp -r Docs, Logs /linux_ex
+  194  cp -r Docs Logs linux_ex
+  195  cd linux_ex/
+  196  ls
+  197  cd ..
+  198  pwd
+  199  ls
+  200  cd linux_ex/
+  201  tree
+  202  cd Logs/
+  203  cat rona_qEEN
+  204  ls
+  205  cat rona_2
+  206  cat rona_queen 
+  207  cd ..
+  208  man find
+  209  pwd
+  210  find -error *.log
+  211  find error *.log
+  212  pwd
+  213  find error "*.log"
+  214  find *.log
+  215  find "*.log"
+  216  ls
+  217  cd Logs/
+  218  find "*.log"
+  219  find .-name "*.log"
+  220  find -name "*.log"
+  221  find -type d -name error
+  222  cd ..
+  223  pwd
+  224  find -type d ./Logs
+  225  find -type d Logs
+  226  find -type d .log
+  227  finf -type d ".log"
+  228  find -type d " .log"
+  229  find -type d ".log"
+  230  find -type d "*.log"
+  231  find -type d "*.txt"
+  232  find -type d ./txt
+  233  find -name "*.log"
+  234  grep -r error
+  235  grep -r " error"
+  236  grep -r "error"
+  237  grep -ir "error"
+  238  grep -ir "error" .
+  239  grep "error" *.txt
+  240  grep "error" *.log
+  241  grep -r "error"
+  242  ls
+  243  grep -r "eror"
+  244  cd Logs/
+  245  ls
+  246  grep -r error *.log
+  247  find .
+  248  grep man
+  249  find (-name 'error') -name "*.log"
+  250  PEWD
+  251  pwd
+  252  ls \\\
+  253  ls | grep error_rona.log 
+  254  ls
+  255  ls | grep error_rona
+  256  grep error -o eror
+  257  ls | grep error -o eror
+  258  pwd
+  259  ls | grep error
+  260  ls |grep er
+  261  cd ..
+  262  pwd
+  263  ls |grep -r er
+  264  ls |grep  er
+  265  grep -r er
+  266  grep er
+  267  grep -v er
+  268  ls | grep -v er
+  269  grep er .
+  270  ls | grep er
+  271  pwd
+  272  ls |grep er
+  273  ls | grep -rv er
+  274  ls |grep -r er
+  275  ls
+  276  cd Logs/
+  277  LS
+  278  ls
+  279  mv eror_rona.log error_1_rona.log
+  280  ls
+  281  sort 
+  282  sort rona_2
+  283  ls
+  284  sort Login_rona.lo 
+  285  tree
+  286  cd .. / ..
+  287  cd ..
+  288  tree
+  289  cd Docs/
+  290  mkdir rona_doc
+  291  ls
+  292  tree
+  293  cd ..
+  294  tree
+  295  ln -s rona_doc /shoshana
+  296  sudo ln -s rona_doc /shoshana
+  297  cd ..
+  298  cd /shoshana
+  299  pwd
+  300  ls
+  301  cd ~
+  302  pwd
+  303  ls
+  304  cd shoshana
+  305  sd linux
+  306  cd linux
+  307  cd shoshana
+  308  cd /shoshana
+  309  ls
+  310  pwd
+  311  ls
+  312  cd ..
+  313  ls
+  314  cd linux_ex/
+  315  cd /shoshana
+  316  ls
+  317  cd D
+  318  CD Docs/
+  319  cd Docs/
+  320  CD 
+  321  cd shoshan
+  322  ls
+  323  diff a_rona.txt b_rona.txt 
+  324  cd ..
+  325  pwd
+  326  ls
+  327  cd Logs/
+  328  ls
+  329  sort error_1_rona.log 
+  330  sort rona_2
+  331  sort -r rona_2
+  332  cd ..
+  333  sort rona_2 /Logs
+  334  ls -l
+  335  cd Logs/
+  336  ls -l
+  337  cd ..
+  338  ls
+  339  l -l
+  340  cd ..
+  341  ls -l ./linux_ex
+  342  ls -l ./home/ronaofer/linux_ex
+  343  tree
+  344  ls
+  345  cd ronaofer/
+  346  ls
+  347  ls -l ./home/ronaofer/linux_ex
+  348  ls
+  349  cd linux_e
+  350  cd linux_ex
+  351  ls -l
+  352  chmod g-w 
+  353  ls
+  354  cd L
+  355  cd Logs/
+  356  ls -
+  357  ls -l
+  358  chmod g-w error_1_rona.log 
+  359  ls -l
+  360  cd ..
+  361  pwd
+  362  ls
+  363  cd Docs/
+  364  echo "rona hmework" > c_rona.txt
+  365  ls
+  366  ls l-
+  367  ls -l
+  368  chmod o=rwx c_rona.txt 
+  369  ls -l c_rona.txt 
+  370  echo a-z.txt
+  371  echo [a-z].txt
+  372  ls -l ?r.txt
+  373  ls -l ? .txt
+  374  is -l r?.txt
+  375  ls -l rona?
+  376  ls
+  377  ls -l rona?.txt
+  378  ls -l a?.txt
+  379  ls -l a_????.txt
+  380  tree
+  381  cd ../ ..
+  382  cd ../..
+  383  pwd
+  384  tree
+  385  ls
+  386  cd linux_ex/
+  387  tree
+  388  echo "i dont know linux" > rona_doc/rona_ofer
+  389  echo "i dont know linux" > rona_doc
+  390  ls
+  391  rm rona_doc 
+  392  ls
+  393  cd Docs/
+  394  echo "i dont know linux" > rona_doc/rona_ofer
+  395  ls
+  396  tree
+  397  cat rona_ofer
+  398  ls
+  399  cd rona_doc/
+  400  cat rona_ofer 
+  401  cd ..
+  402  pwd
+  403  grep -r rona
+  404  find -r rona
+  405  find -name rona
+  406  ls -l
+  407  cat .
+  408  pwd
+  409  cat ./Docs
+  410  cat .*
+  411  cat *
+  412  cat -l *
+  413  pwd
+  414  ls
+  415  git
+  416  git status
+  417  ls
+  418  cd Documemts
+  419  cd dirocuments
+  420  cd Documents
+  421  ls
+  422  cd GitCourse/
+  423  ls
+  424  git status
+  425  ls
+  426  cat README.md 
+  427  git pull
+  428  ls
+  429  git log
+  430  git pull
+  431  git push origin main
+  432  ls
+  433  git status
+  434  git commit 
+  435  git commit "rona 2"
+  436  ls
+  437  git add 1
+  438  git status 
+  439  git commit "rona"
+  440  git commit -m "rona"
+  441  git push origin main
+  442  history 
+  443  history > history_1
+  444  ls
+  445  git add history_1 
+  446  git status 
+  447  git commit -m "history"
+  448  git push origin main
+  449  ls
+  450  git branch 
+  451  git pull
+  452  git branch 
+  453  git checkout -b newbranch 
+  454  git branch 
+  455  git checkout -b newbranch_rona
+  456  git branch 
+  457  echo "new branch" > test_branch
+  458  ls
+  459  git status 
+  460  git add .
+  461  git status 
+  462  git commit -m "creating new branch"
+  463  git log 
+  464  git branch 
+  465  git push origin newbranch_rona 
+  466  git status | head
+  467  git status 
+  468  git log |head
+  469  git checkout main
+  470  git branch 
+  471  git merge newbranch_r
+  472  git merge newbranch_rona 
+  473  git log |head
+  474  git log
+  475  git push origin main
+  476  git checkout -b branch_conflict
+  477  git branch 
+  478  ls
+  479  cat test_branch 
+  480  nano
+  481  nano test_branch 
+  482  cat test_branch 
+  483  git add
+  484  git add .
+  485  git commit -m  "create conflict"
+  486  git push origin branch_conflict 
+  487  git branch 
+  488  git merge branch_conflict 
+  489  git log
+  490  git push origin main 
+  491  git merge branch_conflict 
+  492  git branch 
+  493  git checkout main 
+  494  git branch 
+  495  git merge main
+  496  git merge branch_conflict 
+  497  git branch 
+  498  ls
+  499  nano test_branch 
+  500  cat test_branch 
+  501  git add .
+  502  git commit -m "make_real conflict"
+  503  git push origin main
+  504  git branch 
+  505  git checkout branch_conflict 
+  506  ls
+  507  nano test_branch 
+  508  cat test_branch 
+  509  git add .
+  510  git commit -m "make conflict"
+  511  git push origin branch_conflict 
+  512  git branch 
+  513  git checkout main
+  514  git branch 
+  515  git merge branch_conflict 
+  516  git status 
+  517  git add test_branch 
+  518  cat test_branch 
+  519  git branch 
+  520  nano test_branch 
+  521  cat test_branch 
+  522  git add /
+  523  git add .
+  524  git commit -m "resolving conflict"
+  525  git push origin main 
+  526  git status 
+  527  git log | head 
+  528  git branch 
+  529  git merge branch_conflict 
+  530  git checkout newbranch
+  531  git branch 
+  532  git log 
+  533  git checkout -b pullRequest
+  534  tail 3.txt 
+  535  cat 3.txt 
+  536  ls
+  537  ls >ls_output
+  538  cat ls_output 
+  539  touch rt.sh
+  540  nano
+  541  cat rt.sh 
+  542  bash print rt.sh 
+  543  bash rt.sh 
+  544  bash rt.sh &>2
+  545  ca 2
+  546  cat 2
+  547  mkdir rona
+  548  cd rona
+  549  mkdir r1 r2 r3
+  550  cd
+  551  ls
+  552  cd rona
+  553  ls
+  554  cd Public
+  555  cd ..
+  556  cd Public
+  557  LS
+  558  ls
+  559  yes
+  560  ls
+  561  cat *
+  562  echo ls
+  563  ls
+  564  echo "a c" |xargs rm
+  565  grep "error" 
+  566  grep "error" *
+  567  ls|grep "error" *
+  568  grep -l "error" *
+  569  ls
+  570  ln -s 1.txt 2.txt rona_1
+  571  ln -s 1.txt 2.txt rona
+  572  cat rona
+  573  cd rona
+  574  ls
+  575  cat r1
+  576  cd r1
+  577  ls
+  578  ls -l
+  579  cd ~
+  580  ls
+  581  stat 1.txt 
+  582  ls -i
+  583  ll
+  584  pwd
+  585  ls
+  586  cd Documents
+  587  ls
+  588  cd GitCourse
+  589  ls
+  590  git branch 
+  591  touch testPullRequest
+  592  ls
+  593  git add /
+  594  git add .
+  595  git status 
+  596  git commit -m "testPullRequest"
+  597  git push origin testPullRequest
+  598  git branch 
+  599  git push origin pullRequest
+  600  git branch 
+  601  git checkout -b Request
+  602  git branch 
+  603  echo "hello" > testPullRequest
+  604  cat testPullRequest 
+  605  add .
+  606  git add .
+  607  git status 
+  608  git commit -m "“Creating a pull request"
+  609  git push origin testPullRequest
+  610  git status 
+  611  ls
+  612  git push origin testPullRequest
+  613  git branch 
+  614  git add .
+  615  git status 
+  616  ls
+  617  nano testPullRequest 
+  618  git add .
+  619  git status 
+  620  git commit -m "help"
+  621  git push origin Request
+  622  git pull
+  623  git branch 
+  624  git checkout main 
+  625  git pull
+  626  git log 
+  627  git log --online
+  628  git log --oneline 
+  629  git tag 1.01 bbeada6
+  630  git tag 
+  631  git branch 
+  632  git pull origin main
+  633  git push --tags
+  634  history > history_2
